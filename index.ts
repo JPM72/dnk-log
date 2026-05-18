@@ -29,7 +29,7 @@ function print(...data)
 		if (typeof datum === 'string')
 		{
 			consoleLog(datum)
-			return
+			continue
 		}
 		consoleLog(
 			'%s',
