@@ -5,7 +5,7 @@ A tiny TypeScript logger built on [chalk](https://github.com/chalk/chalk). Colou
 ## Install
 
 ```sh
-npm install github:<your-username>/<this-repo>
+npm install github:JPM72/dnk-log
 ```
 
 ## Usage
